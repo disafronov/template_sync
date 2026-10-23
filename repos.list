@@ -1,5 +1,6 @@
 disafronov/template_sync-ansible_project
 disafronov/template_sync-ansible_role
+disafronov/template_sync-basic
 disafronov/template_sync-semantic-basic
 disafronov/template_sync-semantic-docker
 disafronov/template_sync-semantic-shell
